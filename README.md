@@ -1,3 +1,7 @@
+![](/giff.gif)
+
+
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
@@ -139,5 +143,5 @@ The things the grading code is looking for are:
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
-## How to write a README
-A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+## Results
+Overall, my particulate filter worked quickly to find my tool based on an algorithm to effectively calculate particle weights. The location of the landmarks was unique on the map with large distances and clusters to test my filter, but I was able to locate my vehicle quickly without major measurement errors.
